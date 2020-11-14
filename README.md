@@ -6,7 +6,7 @@ Knowledge structured and systematic management tools / 知识结构化、体系�
 
 # Website
 
-https://mogonote.com
+https://mogonote.com/
 
 # Description
 

@@ -8,7 +8,7 @@
 
 ## mogonote
 
-Knowledge structured and systematic management tool
+Structured knowledge management tool
 
 ## Website
 

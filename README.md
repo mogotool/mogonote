@@ -4,7 +4,7 @@
 
 ## mogonote
 
-Knowledge structured and systematic management tools
+Knowledge structured and systematic management tool
 
 ## Website
 

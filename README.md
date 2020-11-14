@@ -4,9 +4,9 @@
     </a>
 </div>
 
-# English
+# En Doc
 
-## mogonote: Knowledge structured and systematic management tool
+## mogonote:Knowledge structured and systematic management tool
 
 ## Website
 
@@ -18,9 +18,9 @@ https://mogonote.com/
 +   Support browser storage and cloud storage
 +   Support multi level directory
 
-<div style="border: 2px dashed #000;"></div>
+<div border="2"></div>
 
-# 中文
+# 中文文档
 
 ## mogonote: 知识结构化、体系化管理工具
 

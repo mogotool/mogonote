@@ -3,12 +3,11 @@
         <img width="300" src="./imgs/logo.svg"/>
     </a>
 </div>
+<h1 align="center">mogonote</h1>
 
 # English
 
-## mogonote
-
-Knowledge structured and systematic management tool
+## mogonote: Knowledge structured and systematic management tool
 
 ## Website
 
@@ -20,11 +19,11 @@ https://mogonote.com/
 +   Support browser storage and cloud storage
 +   Support multi level directory
 
+<div style="border: 2px dashed #000;"></div>
+
 # 中文
 
-## mogonote
-
-知识结构化、体系化管理工具
+## mogonote: 知识结构化、体系化管理工具
 
 ## 在线网址
 

@@ -1,0 +1,19 @@
+{
+  "name": "mogonote",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">     <a href=\"https://mogonote.com\">         <img width=\"300\" src=\"./imgs/logo.svg\"/>     </a> </div>",
+  "main": "index.js",
+  "scripts": {
+    "publish": "git add . && git commit -m 'docs: update readme; && git push origin main'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogotool/mogonote.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mogotool/mogonote/issues"
+  },
+  "homepage": "https://github.com/mogotool/mogonote#readme"
+}

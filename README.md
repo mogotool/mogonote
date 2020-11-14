@@ -3,7 +3,6 @@
         <img width="300" src="./imgs/logo.svg"/>
     </a>
 </div>
-<h1 align="center">mogonote</h1>
 
 # English
 

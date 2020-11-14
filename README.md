@@ -1,8 +1,6 @@
-<img style="width: 30%; margin: 20px auto;" src="./imgs/logo.svg" />
-
 <div align="center">
     <a href="https://mogonote.com">
-        <img width="500" src="./imgs/logo.svg"/>
+        <img width="300" src="./imgs/logo.svg"/>
     </a>
 </div>
 <h1 align="center">mogonote</h1>

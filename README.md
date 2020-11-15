@@ -14,7 +14,7 @@
 
 ## mogonote
 
-Structured knowledge management tool
+Systematize your knowledge
 
 ## Website
 
@@ -40,7 +40,7 @@ Thank you for your continued support.
 
 ## mogonote
 
-知识结构化、体系化管理工具
+体系化你的知识
 
 ## 在线网址
 

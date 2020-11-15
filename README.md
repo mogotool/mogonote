@@ -4,7 +4,11 @@
     </a>
 </div>
 
-![](./imgs/demo.png)
+![](./imgs/demo-draw.png)
+
+![](./imgs/demo-markdown.png)
+
+![](./imgs/demo-text.png)
 
 # En Doc
 
